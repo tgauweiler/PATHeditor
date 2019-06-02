@@ -1,0 +1,9 @@
+﻿---
+BasedOnStyle: WebKit
+AlignEscapedNewlinesLeft: 'true'
+AlignOperands: 'true'
+BreakBeforeBraces: Allman
+Language: Cpp
+UseTab: Never
+AlignTrailingComments: 'true'
+...
